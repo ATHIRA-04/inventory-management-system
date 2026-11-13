@@ -1,0 +1,22 @@
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Spring Boot
+inventory-management/target/
+
+# Environment and private files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
